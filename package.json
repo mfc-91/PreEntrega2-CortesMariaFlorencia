@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  },
+  "name": "preentrega2-cortesmariaflorencia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"scss": "node-sass --watch sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfc-91/PreEntrega2-CortesMariaFlorencia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfc-91/PreEntrega2-CortesMariaFlorencia/issues"
+  },
+  "homepage": "https://github.com/mfc-91/PreEntrega2-CortesMariaFlorencia#readme",
+  "description": ""
+}
