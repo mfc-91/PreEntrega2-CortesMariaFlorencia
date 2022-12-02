@@ -64,32 +64,11 @@ body {
 	color:black;
 }
 
-// .titulo-container p, h1  {
-// 	color: $color-titulo !important;
-// }
 .titulo-container {
 	p, h1 {
 		color: $color-titulo !important;
 	}
 }
-
-
-
-// .imagen-container img {
-// 	border: 1px solid $color-borde ;
-// }
-
-// .imagen-container {
-// 	img{
-// 		border: 1px solid $color-borde ;
-// 	}
-// }
-
-// .imagen-container img:hover {
-// 	//border: 1px solid $color-borde-resaltado ;
-// 	transform: scale(1.02);
-// 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-// }
 
 .imagen-container {
 	img {
@@ -101,4 +80,3 @@ body {
 		}
 	}
 }
-
